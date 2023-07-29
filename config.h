@@ -27,6 +27,9 @@ static const Block blocks[] = {
 	/* {"",	"sb-internet",	5,	4}, */
 	/* {"",	"sb-help-icon",	0,	15}, */
 	{"🌻",	"~/scripts/status/power",	1,	10},
+	{"",	"~/scripts/status/dbaas_worker_status",	1,	9},
+	{"",	"~/scripts/status/dbaas_api_status",	1,	9},
+	{"",	"~/scripts/status/dbaas_change_watcher_status",	1,	9},
 	{"",	"~/scripts/pomodoro",	1,	9},
 	{"",	"~/scripts/status/tasksCreated",	5,	1},
 	{"",	"~/scripts/status/tasksDone",	5,	2},
